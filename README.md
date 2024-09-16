@@ -10,7 +10,7 @@ Me llamo **Alberto**, tengo 19 años me gusta el **fútbol** y los **videojuegos
 
 - **Fútbol**: Juego de defensa en el equipo local y sigo activamente las ligas de fútbol, siendo fan del **Real Madrid**. Me gusta tanto jugar como analizar tácticas.
 - **Videojuegos**: En mi tiempo libre disfruto jugando títulos como **ICO**, **Shadow of the Colossus**, y **Call of Duty**. Me atraen especialmente los juegos de estrategia.
-- **Tecnología**: Tengo una gran pasión por la tecnología, especialmente en áreas como la administración de sistemas, virtualización y el manejo de bases de datos.
+- **Tecnología**: Me gusta bastante la tecnología, especialmente las áreas como la administración de sistemas, virtualización y el manejo de bases de datos.
 - **Redes y Seguridad**: La seguridad informática y la gestión de redes son dos áreas que me interesan muchísimo, y aspiro a trabajar en estos campos.
 
 ![Real Madrid](https://www.xtrafondos.com/wallpapers/real-madrid-logo-12369.jpg)
@@ -20,7 +20,7 @@ Me llamo **Alberto**, tengo 19 años me gusta el **fútbol** y los **videojuegos
 
 ## Mi Formación Académica 📚
 
-- **Bachillerato Científico**: Me gradué del bachillerato con especialización científica, lo que me proporcionó una base sólida en matemáticas y ciencias.
+- **Bachillerato Científico**: Me gradué del bachillerato con especialización científica.
 - **ASIR (Administración de Sistemas Informáticos en Red)**: Actualmente curso el segundo año de ASIR en la UTAD. A través de este ciclo, estoy adquiriendo habilidades en:
   - Gestión y configuración de redes.
   - Seguridad informática.
