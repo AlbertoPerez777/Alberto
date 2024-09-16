@@ -1,6 +1,6 @@
 # Soy Alberto 👋
 
-## Un poco sobre mí 🚀
+## Un poco sobre mí 
 
 Me llamo **Alberto**, tengo 19 años me gusta el **fútbol** y los **videojuegos** 🎮⚽. Actualmente, estoy cursando el **segundo año del ciclo formativo de Administración de Sistemas Informáticos en Red (ASIR)** en la **UTAD**. A lo largo de mis estudios, he desarrollado un gran interés por la **gestión de redes**, la **seguridad informática** y la **virtualización de sistemas**.
 
