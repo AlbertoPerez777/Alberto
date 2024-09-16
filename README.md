@@ -14,7 +14,7 @@ Me llamo **Alberto**, tengo 19 años me gusta el **fútbol** y los **videojuegos
 - **Redes y Seguridad**: La seguridad informática y la gestión de redes son dos áreas que me interesan muchísimo, y aspiro a trabajar en estos campos.
 
 ![Real Madrid](https://www.xtrafondos.com/wallpapers/real-madrid-logo-12369.jpg)
-
+> Yo creo que por ser guapo, rico y un gran jugador las personas me tienen envidia - Cristiano Ronaldo Dos Santos Aveiro
 
 ---
 
