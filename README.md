@@ -1,8 +1,8 @@
-# ¡Hola! Soy Alberto 👋
+# Soy Alberto 👋
 
 ## Un poco sobre mí 🚀
 
-Me llamo **Alberto**, tengo 19 años y soy un apasionado del **fútbol** y los **videojuegos** 🎮⚽. Actualmente, estoy cursando el **segundo año del ciclo formativo de Administración de Sistemas Informáticos en Red (ASIR)** en la **UTAD**. A lo largo de mis estudios, he desarrollado un gran interés por la **gestión de redes**, la **seguridad informática** y la **virtualización de sistemas**.
+Me llamo **Alberto**, tengo 19 años me gusta el **fútbol** y los **videojuegos** 🎮⚽. Actualmente, estoy cursando el **segundo año del ciclo formativo de Administración de Sistemas Informáticos en Red (ASIR)** en la **UTAD**. A lo largo de mis estudios, he desarrollado un gran interés por la **gestión de redes**, la **seguridad informática** y la **virtualización de sistemas**.
 
 ---
 
@@ -12,6 +12,8 @@ Me llamo **Alberto**, tengo 19 años y soy un apasionado del **fútbol** y los *
 - **Videojuegos**: En mi tiempo libre disfruto jugando títulos como **ICO**, **Shadow of the Colossus**, y **Call of Duty**. Me atraen especialmente los juegos de estrategia.
 - **Tecnología**: Tengo una gran pasión por la tecnología, especialmente en áreas como la administración de sistemas, virtualización y el manejo de bases de datos.
 - **Redes y Seguridad**: La seguridad informática y la gestión de redes son dos áreas que me interesan muchísimo, y aspiro a trabajar en estos campos.
+![Real Madrid](https://www.xtrafondos.com/wallpapers/real-madrid-logo-12369.jpg)
+
 
 ---
 
@@ -22,6 +24,5 @@ Me llamo **Alberto**, tengo 19 años y soy un apasionado del **fútbol** y los *
   - Gestión y configuración de redes.
   - Seguridad informática.
   - Administración de sistemas operativos (Windows y Linux).
-  - Virtualización y cloud computing.
 
 ---
