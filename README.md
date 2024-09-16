@@ -12,7 +12,7 @@ Me llamo **Alberto**, tengo 19 años me gusta el **fútbol** y los **videojuegos
 - **Videojuegos**: En mi tiempo libre disfruto jugando títulos como **ICO**, **Shadow of the Colossus**, y **Call of Duty**. Me atraen especialmente los juegos de estrategia.
 - **Tecnología**: Tengo una gran pasión por la tecnología, especialmente en áreas como la administración de sistemas, virtualización y el manejo de bases de datos.
 - **Redes y Seguridad**: La seguridad informática y la gestión de redes son dos áreas que me interesan muchísimo, y aspiro a trabajar en estos campos.
-- 
+
 ![Real Madrid](https://www.xtrafondos.com/wallpapers/real-madrid-logo-12369.jpg)
 
 
